@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Plate Weight</string>
+    <string name="edit_message">Enter weight</string>
+    <string name="button_send">Calculate</string>
+</resources>
